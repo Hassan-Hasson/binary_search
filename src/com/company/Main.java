@@ -26,7 +26,7 @@ public class Main {
         // total number of the input
         int totalNumbers = 0;
 
-        // boolean to tell the loop to continue or not
+        // boolean to tell the loop  to continue or not
         boolean shouldRun = true;
         do {
             try {
