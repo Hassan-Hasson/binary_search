@@ -1,0 +1,6 @@
+take ratio
+check that input is double or letter
+take input
+check that input is integer or letter
+input -1 terminate
+ratio = N/X
