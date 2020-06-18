@@ -26,7 +26,7 @@ public class Main {
         System.out.println("please enter the first number");
         input = readInput.next();
         String test = input;
-        if (input == "f") {
+        if (input.equals("f")) {
             System.out.println(input);
             System.out.println("its equals f");
         } else {
