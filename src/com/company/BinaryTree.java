@@ -10,6 +10,8 @@ public class BinaryTree {
         if (root == null) {
             root = newNode;
         } else {
+            // TODO: where is my position
+            // root is not null so it have a postion now
             Node current = root;
             Node parent;
             while (true) {
